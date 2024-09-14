@@ -7,6 +7,3 @@ class Solution(object):
         """
         result = sorted(s) == sorted(t)
         return result
-
-
-        
