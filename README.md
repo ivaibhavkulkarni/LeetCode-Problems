@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/ivaibhavkulkarni/LeetCode-Problems/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/ivaibhavkulkarni/https-github.com-ivaibhavkulkarni-LeetCode-/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/ivaibhavkulkarni/LeetCode-Problems/tree/master/0242-valid-anagram) |
+| [0295-find-median-from-data-stream](https://github.com/ivaibhavkulkarni/LeetCode-Problems/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/ivaibhavkulkarni/LeetCode-Problems/tree/master/0347-top-k-frequent-elements) |
 ## String
 |  |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/ivaibhavkulkarni/LeetCode-Problems/tree/master/0023-merge-k-sorted-lists) |
+| [0295-find-median-from-data-stream](https://github.com/ivaibhavkulkarni/LeetCode-Problems/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/ivaibhavkulkarni/LeetCode-Problems/tree/master/0347-top-k-frequent-elements) |
 ## Bucket Sort
 |  |
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/ivaibhavkulkarni/LeetCode-Problems/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/ivaibhavkulkarni/LeetCode-Problems/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/ivaibhavkulkarni/LeetCode-Problems/tree/master/0143-reorder-list) |
+| [0295-find-median-from-data-stream](https://github.com/ivaibhavkulkarni/LeetCode-Problems/tree/master/0295-find-median-from-data-stream) |
 ## Greedy
 |  |
 | ------- |
@@ -200,5 +203,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/ivaibhavkulkarni/LeetCode-Problems/tree/master/0295-find-median-from-data-stream) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/ivaibhavkulkarni/LeetCode-Problems/tree/master/0297-serialize-and-deserialize-binary-tree) |
+## Data Stream
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/ivaibhavkulkarni/LeetCode-Problems/tree/master/0295-find-median-from-data-stream) |
 <!---LeetCode Topics End-->
