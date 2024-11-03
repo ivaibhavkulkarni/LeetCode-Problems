@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/ivaibhavkulkarni/LeetCode-Problems/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ivaibhavkulkarni/LeetCode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/ivaibhavkulkarni/LeetCode-Problems/tree/master/0124-binary-tree-maximum-path-sum) |
 ## Sliding Window
@@ -260,4 +261,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/ivaibhavkulkarni/LeetCode-Problems/tree/master/0207-course-schedule) |
+## Math
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/ivaibhavkulkarni/LeetCode-Problems/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/ivaibhavkulkarni/LeetCode-Problems/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
