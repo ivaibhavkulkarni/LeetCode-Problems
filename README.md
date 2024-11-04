@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0212-word-search-ii](https://github.com/ivaibhavkulkarni/LeetCode-Problems/tree/master/0212-word-search-ii) |
 | [0213-house-robber-ii](https://github.com/ivaibhavkulkarni/LeetCode-Problems/tree/master/0213-house-robber-ii) |
 | [0217-contains-duplicate](https://github.com/ivaibhavkulkarni/https-github.com-ivaibhavkulkarni-LeetCode-/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/ivaibhavkulkarni/LeetCode-Problems/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/ivaibhavkulkarni/LeetCode-Problems/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/ivaibhavkulkarni/LeetCode-Problems/tree/master/0347-top-k-frequent-elements) |
 | [0417-pacific-atlantic-water-flow](https://github.com/ivaibhavkulkarni/LeetCode-Problems/tree/master/0417-pacific-atlantic-water-flow) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/ivaibhavkulkarni/LeetCode-Problems/tree/master/0141-linked-list-cycle) |
 | [0208-implement-trie-prefix-tree](https://github.com/ivaibhavkulkarni/LeetCode-Problems/tree/master/0208-implement-trie-prefix-tree) |
 | [0217-contains-duplicate](https://github.com/ivaibhavkulkarni/https-github.com-ivaibhavkulkarni-LeetCode-/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/ivaibhavkulkarni/LeetCode-Problems/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/ivaibhavkulkarni/LeetCode-Problems/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/ivaibhavkulkarni/LeetCode-Problems/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/ivaibhavkulkarni/LeetCode-Problems/tree/master/0424-longest-repeating-character-replacement) |
@@ -133,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ivaibhavkulkarni/LeetCode-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/ivaibhavkulkarni/LeetCode-Problems/tree/master/0076-minimum-window-substring) |
+| [0219-contains-duplicate-ii](https://github.com/ivaibhavkulkarni/LeetCode-Problems/tree/master/0219-contains-duplicate-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/ivaibhavkulkarni/LeetCode-Problems/tree/master/0424-longest-repeating-character-replacement) |
 ## Stack
 |  |
