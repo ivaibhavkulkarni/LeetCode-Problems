@@ -5,15 +5,14 @@ class Solution(object):
         :type amount: int
         :rtype: int
         """
+        dp = [amount + 1] * (amount + 1)
+        dp[0] = 0
         
-        dp = [float('inf')] * (amount + 1)
-        dp[0] = 0  # Base case: 0 coins are needed to make amount 0
-
-        # Iterate through each coin
+        # Fill the dp array
         for coin in coins:
-            # Update the dp array for amounts from coin to amount
             for i in range(coin, amount + 1):
                 dp[i] = min(dp[i], dp[i - coin] + 1)
-
-        # Check if amount can be made up
-        return dp[amount] if dp[amount] != float('inf') else -1
+        
+        # If dp[amount] is still amount + 1, we return -1, otherwise return dp[amount]
+        return dp[amount] if dp[amount] != amount + 1 else -1
+        
