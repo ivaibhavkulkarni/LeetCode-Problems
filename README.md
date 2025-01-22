@@ -178,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/ivaibhavkulkarni/LeetCode-Problems/tree/master/0020-valid-parentheses) |
 | [0143-reorder-list](https://github.com/ivaibhavkulkarni/LeetCode-Problems/tree/master/0143-reorder-list) |
+| [0155-min-stack](https://github.com/ivaibhavkulkarni/LeetCode-Problems/tree/master/0155-min-stack) |
 ## Binary Search
 |  |
 | ------- |
@@ -279,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/ivaibhavkulkarni/LeetCode-Problems/tree/master/0155-min-stack) |
 | [0208-implement-trie-prefix-tree](https://github.com/ivaibhavkulkarni/LeetCode-Problems/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/ivaibhavkulkarni/LeetCode-Problems/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0295-find-median-from-data-stream](https://github.com/ivaibhavkulkarni/LeetCode-Problems/tree/master/0295-find-median-from-data-stream) |
