@@ -4,20 +4,20 @@ class Solution(object):
         :type n: int
         :rtype: List[str]
         """
-        def backtrack(curr, open_count, close_count):
-            # Base case: If the current combination is valid and complete
-            if len(curr) == 2 * n:
-                result.append(curr)
+        def backtrack(current, open_count, close_count):
+            # If the current string is a valid combination
+            if len(current) == 2 * n:
+                result.append(current)
                 return
             
-            # Add an open parenthesis if it is valid
+            # Add an open parenthesis if possible
             if open_count < n:
-                backtrack(curr + "(", open_count + 1, close_count)
+                backtrack(current + "(", open_count + 1, close_count)
             
-            # Add a close parenthesis if it is valid
+            # Add a close parenthesis if possible
             if close_count < open_count:
-                backtrack(curr + ")", open_count, close_count + 1)
+                backtrack(current + ")", open_count, close_count + 1)
         
         result = []
-        backtrack("", 0, 0)  # Start with an empty string and no open or close parentheses
+        backtrack("", 0, 0)
         return result
