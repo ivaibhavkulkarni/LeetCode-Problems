@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/ivaibhavkulkarni/LeetCode-Problems/tree/master/0347-top-k-frequent-elements) |
 | [0417-pacific-atlantic-water-flow](https://github.com/ivaibhavkulkarni/LeetCode-Problems/tree/master/0417-pacific-atlantic-water-flow) |
 | [0435-non-overlapping-intervals](https://github.com/ivaibhavkulkarni/LeetCode-Problems/tree/master/0435-non-overlapping-intervals) |
+| [0739-daily-temperatures](https://github.com/ivaibhavkulkarni/LeetCode-Problems/tree/master/0739-daily-temperatures) |
 ## Hash Table
 |  |
 | ------- |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/ivaibhavkulkarni/LeetCode-Problems/tree/master/0143-reorder-list) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ivaibhavkulkarni/LeetCode-Problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/ivaibhavkulkarni/LeetCode-Problems/tree/master/0155-min-stack) |
+| [0739-daily-temperatures](https://github.com/ivaibhavkulkarni/LeetCode-Problems/tree/master/0739-daily-temperatures) |
 ## Binary Search
 |  |
 | ------- |
@@ -356,4 +358,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/ivaibhavkulkarni/LeetCode-Problems/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/ivaibhavkulkarni/LeetCode-Problems/tree/master/0338-counting-bits) |
 | [0371-sum-of-two-integers](https://github.com/ivaibhavkulkarni/LeetCode-Problems/tree/master/0371-sum-of-two-integers) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/ivaibhavkulkarni/LeetCode-Problems/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
