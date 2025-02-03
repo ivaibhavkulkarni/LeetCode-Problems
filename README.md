@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/ivaibhavkulkarni/LeetCode-Problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/ivaibhavkulkarni/LeetCode-Problems/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ivaibhavkulkarni/LeetCode-Problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0189-rotate-array](https://github.com/ivaibhavkulkarni/LeetCode-Problems/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/ivaibhavkulkarni/LeetCode-Problems/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/ivaibhavkulkarni/LeetCode-Problems/tree/master/0200-number-of-islands) |
 | [0212-word-search-ii](https://github.com/ivaibhavkulkarni/LeetCode-Problems/tree/master/0212-word-search-ii) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/ivaibhavkulkarni/LeetCode-Problems/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/ivaibhavkulkarni/LeetCode-Problems/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/ivaibhavkulkarni/LeetCode-Problems/tree/master/0143-reorder-list) |
+| [0189-rotate-array](https://github.com/ivaibhavkulkarni/LeetCode-Problems/tree/master/0189-rotate-array) |
 | [0295-find-median-from-data-stream](https://github.com/ivaibhavkulkarni/LeetCode-Problems/tree/master/0295-find-median-from-data-stream) |
 | [0647-palindromic-substrings](https://github.com/ivaibhavkulkarni/LeetCode-Problems/tree/master/0647-palindromic-substrings) |
 ## Greedy
@@ -353,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/ivaibhavkulkarni/LeetCode-Problems/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/ivaibhavkulkarni/LeetCode-Problems/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ivaibhavkulkarni/LeetCode-Problems/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0189-rotate-array](https://github.com/ivaibhavkulkarni/LeetCode-Problems/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/ivaibhavkulkarni/LeetCode-Problems/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/ivaibhavkulkarni/LeetCode-Problems/tree/master/0371-sum-of-two-integers) |
 ## Memoization
