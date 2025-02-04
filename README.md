@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/ivaibhavkulkarni/LeetCode-Problems/tree/master/0133-clone-graph) |
 | [0139-word-break](https://github.com/ivaibhavkulkarni/LeetCode-Problems/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/ivaibhavkulkarni/LeetCode-Problems/tree/master/0141-linked-list-cycle) |
+| [0202-happy-number](https://github.com/ivaibhavkulkarni/LeetCode-Problems/tree/master/0202-happy-number) |
 | [0208-implement-trie-prefix-tree](https://github.com/ivaibhavkulkarni/LeetCode-Problems/tree/master/0208-implement-trie-prefix-tree) |
 | [0217-contains-duplicate](https://github.com/ivaibhavkulkarni/https-github.com-ivaibhavkulkarni-LeetCode-/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/ivaibhavkulkarni/LeetCode-Problems/tree/master/0219-contains-duplicate-ii) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/ivaibhavkulkarni/LeetCode-Problems/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/ivaibhavkulkarni/LeetCode-Problems/tree/master/0143-reorder-list) |
 | [0189-rotate-array](https://github.com/ivaibhavkulkarni/LeetCode-Problems/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/ivaibhavkulkarni/LeetCode-Problems/tree/master/0202-happy-number) |
 | [0295-find-median-from-data-stream](https://github.com/ivaibhavkulkarni/LeetCode-Problems/tree/master/0295-find-median-from-data-stream) |
 | [0647-palindromic-substrings](https://github.com/ivaibhavkulkarni/LeetCode-Problems/tree/master/0647-palindromic-substrings) |
 ## Greedy
@@ -356,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/ivaibhavkulkarni/LeetCode-Problems/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ivaibhavkulkarni/LeetCode-Problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/ivaibhavkulkarni/LeetCode-Problems/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/ivaibhavkulkarni/LeetCode-Problems/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/ivaibhavkulkarni/LeetCode-Problems/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/ivaibhavkulkarni/LeetCode-Problems/tree/master/0371-sum-of-two-integers) |
 ## Memoization
