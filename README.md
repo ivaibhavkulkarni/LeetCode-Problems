@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/ivaibhavkulkarni/LeetCode-Problems/tree/master/0435-non-overlapping-intervals) |
 | [0739-daily-temperatures](https://github.com/ivaibhavkulkarni/LeetCode-Problems/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/ivaibhavkulkarni/LeetCode-Problems/tree/master/0792-binary-search) |
+| [1014-k-closest-points-to-origin](https://github.com/ivaibhavkulkarni/LeetCode-Problems/tree/master/1014-k-closest-points-to-origin) |
 | [1127-last-stone-weight](https://github.com/ivaibhavkulkarni/LeetCode-Problems/tree/master/1127-last-stone-weight) |
 ## Hash Table
 |  |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0295-find-median-from-data-stream](https://github.com/ivaibhavkulkarni/LeetCode-Problems/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/ivaibhavkulkarni/LeetCode-Problems/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/ivaibhavkulkarni/LeetCode-Problems/tree/master/0435-non-overlapping-intervals) |
+| [1014-k-closest-points-to-origin](https://github.com/ivaibhavkulkarni/LeetCode-Problems/tree/master/1014-k-closest-points-to-origin) |
 ## String
 |  |
 | ------- |
@@ -110,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0190-reverse-bits](https://github.com/ivaibhavkulkarni/LeetCode-Problems/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/ivaibhavkulkarni/LeetCode-Problems/tree/master/0191-number-of-1-bits) |
 | [0347-top-k-frequent-elements](https://github.com/ivaibhavkulkarni/LeetCode-Problems/tree/master/0347-top-k-frequent-elements) |
+| [1014-k-closest-points-to-origin](https://github.com/ivaibhavkulkarni/LeetCode-Problems/tree/master/1014-k-closest-points-to-origin) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -117,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0295-find-median-from-data-stream](https://github.com/ivaibhavkulkarni/LeetCode-Problems/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/ivaibhavkulkarni/LeetCode-Problems/tree/master/0347-top-k-frequent-elements) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/ivaibhavkulkarni/LeetCode-Problems/tree/master/0789-kth-largest-element-in-a-stream) |
+| [1014-k-closest-points-to-origin](https://github.com/ivaibhavkulkarni/LeetCode-Problems/tree/master/1014-k-closest-points-to-origin) |
 | [1127-last-stone-weight](https://github.com/ivaibhavkulkarni/LeetCode-Problems/tree/master/1127-last-stone-weight) |
 ## Bucket Sort
 |  |
@@ -130,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/ivaibhavkulkarni/LeetCode-Problems/tree/master/0347-top-k-frequent-elements) |
+| [1014-k-closest-points-to-origin](https://github.com/ivaibhavkulkarni/LeetCode-Problems/tree/master/1014-k-closest-points-to-origin) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -368,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/ivaibhavkulkarni/LeetCode-Problems/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/ivaibhavkulkarni/LeetCode-Problems/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/ivaibhavkulkarni/LeetCode-Problems/tree/master/0371-sum-of-two-integers) |
+| [1014-k-closest-points-to-origin](https://github.com/ivaibhavkulkarni/LeetCode-Problems/tree/master/1014-k-closest-points-to-origin) |
 ## Memoization
 |  |
 | ------- |
@@ -394,4 +400,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/ivaibhavkulkarni/LeetCode-Problems/tree/master/0739-daily-temperatures) |
+## Geometry
+|  |
+| ------- |
+| [1014-k-closest-points-to-origin](https://github.com/ivaibhavkulkarni/LeetCode-Problems/tree/master/1014-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
