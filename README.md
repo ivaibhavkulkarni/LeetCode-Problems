@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/ivaibhavkulkarni/LeetCode-Problems/tree/master/0792-binary-search) |
 | [1014-k-closest-points-to-origin](https://github.com/ivaibhavkulkarni/LeetCode-Problems/tree/master/1014-k-closest-points-to-origin) |
 | [1127-last-stone-weight](https://github.com/ivaibhavkulkarni/LeetCode-Problems/tree/master/1127-last-stone-weight) |
+| [2058-concatenation-of-array](https://github.com/ivaibhavkulkarni/LeetCode-Problems/tree/master/2058-concatenation-of-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -394,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/ivaibhavkulkarni/LeetCode-Problems/tree/master/0054-spiral-matrix) |
+| [2058-concatenation-of-array](https://github.com/ivaibhavkulkarni/LeetCode-Problems/tree/master/2058-concatenation-of-array) |
 ## Bit Manipulation
 |  |
 | ------- |
