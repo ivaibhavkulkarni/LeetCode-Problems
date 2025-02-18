@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0212-word-search-ii](https://github.com/ivaibhavkulkarni/LeetCode-Problems/tree/master/0212-word-search-ii) |
 | [0242-valid-anagram](https://github.com/ivaibhavkulkarni/LeetCode-Problems/tree/master/0242-valid-anagram) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/ivaibhavkulkarni/LeetCode-Problems/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0412-fizz-buzz](https://github.com/ivaibhavkulkarni/LeetCode-Problems/tree/master/0412-fizz-buzz) |
 | [0424-longest-repeating-character-replacement](https://github.com/ivaibhavkulkarni/LeetCode-Problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0647-palindromic-substrings](https://github.com/ivaibhavkulkarni/LeetCode-Problems/tree/master/0647-palindromic-substrings) |
 | [1250-longest-common-subsequence](https://github.com/ivaibhavkulkarni/LeetCode-Problems/tree/master/1250-longest-common-subsequence) |
@@ -386,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/ivaibhavkulkarni/LeetCode-Problems/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/ivaibhavkulkarni/LeetCode-Problems/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/ivaibhavkulkarni/LeetCode-Problems/tree/master/0371-sum-of-two-integers) |
+| [0412-fizz-buzz](https://github.com/ivaibhavkulkarni/LeetCode-Problems/tree/master/0412-fizz-buzz) |
 | [1014-k-closest-points-to-origin](https://github.com/ivaibhavkulkarni/LeetCode-Problems/tree/master/1014-k-closest-points-to-origin) |
 ## Memoization
 |  |
@@ -400,6 +402,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/ivaibhavkulkarni/LeetCode-Problems/tree/master/0054-spiral-matrix) |
+| [0412-fizz-buzz](https://github.com/ivaibhavkulkarni/LeetCode-Problems/tree/master/0412-fizz-buzz) |
 | [2058-concatenation-of-array](https://github.com/ivaibhavkulkarni/LeetCode-Problems/tree/master/2058-concatenation-of-array) |
 ## Bit Manipulation
 |  |
