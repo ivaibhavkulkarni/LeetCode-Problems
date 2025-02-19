@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/ivaibhavkulkarni/LeetCode-Problems/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/ivaibhavkulkarni/LeetCode-Problems/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/ivaibhavkulkarni/LeetCode-Problems/tree/master/0049-group-anagrams) |
+| [0067-add-binary](https://github.com/ivaibhavkulkarni/LeetCode-Problems/tree/master/0067-add-binary) |
 | [0076-minimum-window-substring](https://github.com/ivaibhavkulkarni/LeetCode-Problems/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/ivaibhavkulkarni/LeetCode-Problems/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/ivaibhavkulkarni/LeetCode-Problems/tree/master/0091-decode-ways) |
@@ -381,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/ivaibhavkulkarni/LeetCode-Problems/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/ivaibhavkulkarni/LeetCode-Problems/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/ivaibhavkulkarni/LeetCode-Problems/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/ivaibhavkulkarni/LeetCode-Problems/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/ivaibhavkulkarni/LeetCode-Problems/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ivaibhavkulkarni/LeetCode-Problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/ivaibhavkulkarni/LeetCode-Problems/tree/master/0189-rotate-array) |
@@ -402,11 +404,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/ivaibhavkulkarni/LeetCode-Problems/tree/master/0054-spiral-matrix) |
+| [0067-add-binary](https://github.com/ivaibhavkulkarni/LeetCode-Problems/tree/master/0067-add-binary) |
 | [0412-fizz-buzz](https://github.com/ivaibhavkulkarni/LeetCode-Problems/tree/master/0412-fizz-buzz) |
 | [2058-concatenation-of-array](https://github.com/ivaibhavkulkarni/LeetCode-Problems/tree/master/2058-concatenation-of-array) |
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/ivaibhavkulkarni/LeetCode-Problems/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/ivaibhavkulkarni/LeetCode-Problems/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/ivaibhavkulkarni/LeetCode-Problems/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/ivaibhavkulkarni/LeetCode-Problems/tree/master/0191-number-of-1-bits) |
